@@ -289,5 +289,5 @@ int main()
         printRangesAndReadings(rangesAndReadings9, rangesFound);
     }
 
-    return 0;
+   return 0;
 }
