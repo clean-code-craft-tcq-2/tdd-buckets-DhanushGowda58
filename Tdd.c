@@ -3,8 +3,8 @@
 #include <assert.h>
 #include <math.h>
 #include <time.h>
+#include "Tdd.h"
 
-#define MAX_NUMBER_OF_RANGES_AND_READINGS 100
 
 int quickSortComparator(const void* p1, const void* p2)
 {
